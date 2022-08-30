@@ -5,6 +5,7 @@ Add this to your head and replace `PREFIX` with the path prefix, or remove it if
 
 ```html
 <link rel="apple-touch-icon" sizes="180x180" href="PREFIX/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="48x48" href="PREFIX/favicon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="PREFIX/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="PREFIX/favicon-16x16.png">
 <link rel="manifest" href="PREFIX/site.webmanifest">
